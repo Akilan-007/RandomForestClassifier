@@ -1,7 +1,7 @@
-Open terminal.
+1.Open terminal.
 
-Clone the respository using command 'https://github.com/Akilan-007/RandomForestClassifier.git'.
+2.Clone the respository using command 'https://github.com/Akilan-007/RandomForestClassifier.git'.
 
-get into the directory using command 'cd RandomForestClassifier'.
+3.get into the directory using command 'cd RandomForestClassifier'.
 
-Run the python file using command 'python RFC.py'.
+4.Run the python file using command 'python RFC.py'.
